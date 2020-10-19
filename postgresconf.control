@@ -1,0 +1,5 @@
+comment = 'postgresconf:  Created by pgx'
+default_version = '1.0'
+module_pathname = '$libdir/postgresconf'
+relocatable = false
+superuser = false
