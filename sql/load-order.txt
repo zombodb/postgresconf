@@ -1,2 +1,0 @@
-lib.generated.sql
-phone_number_mod.generated.sql
