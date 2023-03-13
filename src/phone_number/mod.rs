@@ -1,7 +1,8 @@
-use pgx::*;
+use std::ffi::CStr;
+
+use pgx::{prelude::*, StringInfo};
 use rand::Rng;
 use serde::{Deserialize, Serialize};
-use pgx::cstr_core::CStr;
 
 mod implementation;
 
